@@ -1,6 +1,6 @@
 {
 	"name": "devcontainr_python3",
-	//"dockerFile": "Dockerfile",
+	"dockerFile": "Dockerfile",
 	"dockerComposeFile": "compose.yaml",
 	"service": "jupyter",
 	"workspaceFolder": "/workspace",
